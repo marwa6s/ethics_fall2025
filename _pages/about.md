@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Name] Computes Ethics" #update to your name
+title: "Marwa Computes Ethics" #update to your name
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,16 +12,12 @@ This page is meant for you to showcase your case study, podcasts, and blog posts
 
 About Me
 ---
-My name is [First Last]. I’m a [Computer Science] student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my [B.S] in [majors]. You can also talk about internships you've had [if applicable]
+My name is Marwa Idris. I’m a Computer Science student in the Mathematics, Statistics, and Computer Science Department (https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.A in omputer Sience and a Concentration in Stats & Data Sience.
 
 Research 
 ---
-What topics are you currently interested in researching, or have already done in your major studies.
-What topics are you interested in learning about regarding ethics.
+One topic I'm interested in researching is AI and how much it can advance. Some topics I'm interested in learning regarding ethics, are the use og AI. AI is a very controversial topic when it comes to its ethical use and it is somthing I'd like to dive deeper into analyzing.
 
 Personal Life
 ---
-Update to give a little background on you and your interests.
-
-
-For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Some of my main interests and hobbies are traveling, painting, reading and coding.

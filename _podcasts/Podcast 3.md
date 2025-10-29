@@ -4,7 +4,7 @@ collection: podcasts
 permalink: /podcasts/podcast3
 excerpt: "social media and its impact on relationships"
 date: 2025-10-28
-infographic: /podcast/unnamed.png
+Pic: /images/unnamed.png
 audio: ethics_fall2025/files/Chavez_Idris_Nintunze_Podcast3.mp3
 video: ethics_fall2025/files/Chavez_Idris_Nintunze_Podcast3.mp4
 ---

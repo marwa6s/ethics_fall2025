@@ -8,5 +8,5 @@ audio: ethics_fall2025/files/Chavez_Idris_Nintunze_podcast3.mp3
 video: ethics_fall2025/files/Chavez_Idris_Nintunze_podcast3.mp4
 ---
 
-In this podcas we dived deeper into the affect of social media on relationships. We reviewed multiple articles that discussed our topic. We found variaty of answers such as how social media benefits, harms, or maintain relationships. 
+In this podcas we dived deeper into the affect of social media on relationships. We reviewed multiple articles that discussed our topic. We found variaty of answers such as how social media benefits, harms, or maintain relationships.
 ![alt text](unnamed.png)

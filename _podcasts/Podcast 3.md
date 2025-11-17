@@ -1,5 +1,5 @@
 ---
-title: "Podcast 3: : Dealer's Choice"
+title: "Podcast 3: Dealer's Choice"
 collection: podcasts
 permalink: /podcasts/podcast3
 excerpt: "social media and its impact on relationships"

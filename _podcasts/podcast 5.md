@@ -7,7 +7,8 @@ date: 2025-12-04
 audio: ethics_fall2025/files/Nintunze_Salazar_Idris_Podcast5.mp3
 video: ethics_fall2025/files/Nintunze_Salazar_Idris_Podcast5.mp4
 ---
-
+Memes Referenced:
+--
 ![alt text](dexterdoakesmeme.jpg)     Dexter meme
 
 ![alt text](yearning.jpg)     Alice in Wonderland Rabbit with Clock

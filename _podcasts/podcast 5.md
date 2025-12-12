@@ -15,4 +15,4 @@ Memes Referenced:
 
 ![alt text](rabbitclock.jpg)     The Notebook Yearning meme
 
-In this podcast, me, Dylan-Dirac and Jocelyn discussed how memes function as aesthetic objects, how we “read” them, and how this may impact how we interpret other forms of information. We've dived deeper into the topic and explaining our expierence with memes and provided examples of how memes could also be harmful. 
+In this podcast, me, Dylan-Dirac and Jocelyn discussed how memes function as aesthetic objects, how we “read” them, and how this may impact how we interpret other forms of information. We've dived deeper into the topic and explaining our expierence with memes and provided examples of how memes could also be harmful.
